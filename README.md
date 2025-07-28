@@ -1,2 +1,1 @@
-# project
-flappybird
+# Flappy-Bird-Game with JavaScript
